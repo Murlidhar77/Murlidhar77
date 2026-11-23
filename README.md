@@ -16,9 +16,9 @@
 <a href="https://github.com/Murlidhar77">
   <img src="https://img.shields.io/badge/GitHub-Murlidhar77-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
 </a>
-</a>
+
 <a href="https://leetcode.com/u/MurlidharChindarkar/">
-  <img src="https://img.shields.io/badge/LeetCode-40%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile"/>
+  <img src="https://img.shields.io/badge/LeetCode-38%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile - 38 problems solved"/>
 </a>
 
 <br/><br/>
@@ -98,6 +98,7 @@ A finance management application designed to help users monitor their income, ex
 
 [![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/Murlidhar77/Finance-tracker)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://murlidhar77.github.io/Finance-tracker/)
+
 ---
 
 ### 02. Kanban Board
@@ -117,10 +118,6 @@ A Kanban-style task management application that helps users organize their work 
 
 [![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/Murlidhar77/kaban-Board)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://murlidhar77.github.io/kaban-Board/)
-
----
-
-
 
 ---
 
@@ -161,7 +158,6 @@ A frontend recreation project inspired by modern design layouts, built to practi
 [![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/Murlidhar77/Dribble-Clone)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://murlidhar77.github.io/Dribble-Clone/)
 
-
 ---
 
 <!-- ======================================================= -->
@@ -175,7 +171,7 @@ I regularly practice Data Structures and Algorithms to strengthen my logical thi
 <div align="center">
 
 <a href="https://leetcode.com/u/MurlidharChindarkar/">
-  <img src="https://img.shields.io/badge/LeetCode-40%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="38 LeetCode problems solved"/>
+  <img src="https://img.shields.io/badge/LeetCode-38%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="38 LeetCode problems solved"/>
 </a>
 
 <br/><br/>
@@ -248,12 +244,11 @@ I'm always interested in connecting with developers, learning from experienced e
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-
-<a href="https://leetcode.com/settings/profile/">
+<a href="https://leetcode.com/u/MurlidharChindarkar/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
-<a href="murlidharchindarkar93@gmail.com">
+<a href="mailto:murlidharchindarkar93@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
